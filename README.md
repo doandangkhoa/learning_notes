@@ -24,5 +24,5 @@ Welcome to my personal learning hub — a collection of everything I study about
 - [Security Tools](linux/security-tools.md)
   
 ## 🧪 Projects & Labs
-- [ProjectI]
-- [Blue Team Labs]
+- [ProjectI]()
+- [Blue Team Labs]()
