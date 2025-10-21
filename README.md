@@ -25,4 +25,4 @@ Welcome to my personal learning hub — a collection of everything I study about
   
 ## 🧪 Projects & Labs
 - [Project I]()
-- [Blue Team Labs]()
+- [Blue Team Labs](labs/blue_team_labs/)
