@@ -1,5 +1,5 @@
 # 🧠 My Learning Notes Repository
--------------------------Welcome to my personal learning hub — a collection of everything I study about cybersecurity, Linux, and programming.-------------------------------------
+Welcome to my personal learning hub — a collection of everything I study about cybersecurity, Linux, and programming.
 
 ## 🛡️ Cybersecurity
 - [SOC Analysis](cybersecurity/soc-analysis.md)
