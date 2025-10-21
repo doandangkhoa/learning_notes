@@ -19,7 +19,7 @@ The SOC received an alert in their SIEM for ‘Local to Local Port Scanning’ w
 
 ### 02. What is the port range scanned by the suspicious host?
 
-**Statistics --> Conversation --> TCP:**
+    Statistics --> Conversation --> TCP:
     I sorted the destination ports by ascending order, then I saw the range of port scanning from 1 to 1024 (dynamic ports)
 
 ### 03. What is the type of port scan conducted? 
@@ -27,10 +27,10 @@ The SOC received an alert in their SIEM for ‘Local to Local Port Scanning’ w
 
 ### 04. Two more tools were used to perform reconnaissance against open ports, what were they?
 
-**in 2215th package: I see suspicous activities:**
-    User-Agent: gobuster/3.0.1 --> a Tool use to scan possible web directory that hidden from user
+    - in 2215th package: I see suspicous activities:
+        User-Agent: gobuster/3.0.1 --> a Tool use to scan possible web directory that hidden from user
     
-**I filtered by a command such "ip.src == 10.251.96.4 && http.request.method == POST", then I look at 13979 package:**
+    - I filtered by a command such "ip.src == 10.251.96.4 && http.request.method == POST", then I look at 13979 package:
     - User-Agent: sqlmap/1.4.7#stable (http://sqlmap.org) 
         --> a tool use to setup automatically some sql commands to collect some data with username=user&password=pass.
         
