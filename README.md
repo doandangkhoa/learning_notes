@@ -22,7 +22,10 @@ Welcome to my personal learning hub — a collection of everything I study about
 - [Important Commands](linux/commands.md)
 - [Networking](linux/networking.md)
 - [Security Tools](linux/security-tools.md)
-  
+
+## Splunk
+- [Splunk Basics]()
 ## 🧪 Projects & Labs
 - [Project I]()
 - [Blue Team Labs](labs/blue_team_labs/)
+- [CyberDefenDers](labs/cyberdefenders/)
