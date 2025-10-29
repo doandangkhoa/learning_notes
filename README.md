@@ -14,6 +14,7 @@ Welcome to my personal learning hub — a collection of everything I study about
 
 ## 🐍 Python
 - [Basics](python/basics.md)
+- [Algorithms](python/algorithms)
 - [Useful Scripts](python/scripts.md)
 - [Automation Projects](python/automation.md)
 
