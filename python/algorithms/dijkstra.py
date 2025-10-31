@@ -1,7 +1,8 @@
 import sys
 import heapq
 
-# idea :
+# problem : find the shortest path from source vertex to others
+# idea : 
 # build a adjacent list of all vertexs and a distance list to contain the distance from source vertex to the others
 # using minheap(heapq) to take out the min element to the next vertex
 # cross over all of neighbours of top element
