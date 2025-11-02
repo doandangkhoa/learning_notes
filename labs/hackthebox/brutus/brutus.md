@@ -1,6 +1,7 @@
 # Brutus
 
 **Category:** bruteforce attack
+
 **link:** https://app.hackthebox.com/sherlocks/brutus
 
 ## Scenario:
