@@ -69,4 +69,6 @@ grep GET access.log | cut -d ' ' -f 1,4,7,10
 ![alt text](assets/image-14.png)
 
 ### 10. What was the size in bytes of the database backup as stated by access.log?
+in the previous picture, take a look at the last element, this is the size in bytes of the database backup
+
 ANS: 34707
